@@ -39,7 +39,7 @@ weight = 15  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["350px", "0", "350px", "0"]
+  padding = ["0px", "0", "50px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -51,6 +51,11 @@ weight = 15  # Order that this section will appear.
 
 
 
+ <h1 style="font-size:5vw; margin-left:-100px"><br/>Johanna<br/> Harvey<br/>PhD.</h1>
+  </div>
+  
+<h2 style="font-size:3vw; text-align: center;margin-top:200px"><br/>Avian Evolitionary Disease Ecology in Anthropogenic Landscapes</h2>
+  </div>
 
 
 
