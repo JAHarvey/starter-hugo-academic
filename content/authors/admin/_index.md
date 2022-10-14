@@ -73,6 +73,6 @@ I received my Ph.D. at the Texas A&M University working on avian malaria diversi
 
 I consider myself fortunate to have found science and research. As a young adult I was provided with opportunities to interact with researchers and mentors that exposed a world and opportunities that I didn’t even know existed when I was growing up. I seek to provide these opportunities and an inclusive environment in order open this world up to others and work towards improving diversity in EEB.
 
-I spend my free time with husband and cats, and enjoy reading fantasy, hiking, gardening, and swimming. 
+I spend my free time with my husband and cat, and I enjoy reading fantasy, hiking, gardening, textile crafts and swimming. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Harvey_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
