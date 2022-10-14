@@ -6,12 +6,12 @@ title: Johanna A. Harvey, PhD
 superuser: true
 
 # Role/position/tagline
-role: Gerstner Postdoctoral Scholar
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: American Museum of Natural History 
-  url: https://www.amnh.org/
+- name: Joint position at the University of Maryland 
+- & USGS Eastern Ecological Science Center
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research broadly focuses on the impacts of anthropogenic change, climate change as well and land cover change, on pathogen virulence and avian host immune response. 
@@ -67,11 +67,11 @@ email: ""
 highlight_name: true
 ---
 
-My research broadly focuses on the impacts of anthropogenic change, climate change as well and land cover change, on pathogen virulence and avian host immune response. Currently, I am a Gerstner Postdoctoral Scholar at the American Museum of Natural History working with Drs. Susan Perkins and Brian Tilston Smith.
+My research broadly focuses on the impacts of anthropogenic change, climate change as well and land cover change, on pathogen virulence and avian host immune response. Currently, I am a  Postdoctoral Researcher with a joint appointment at the Joint position at the University of Maryland & the USGS Eastern Ecological Science Center working with Drs. Jennifer Mullinax and Diann Prosser.
+t 
+I received my Ph.D. at the Texas A&M University working on avian malaria diversification in the lab of Dr. Gary Voelker. My first postdoctoral position was in Dr. Sarah Knutie’s lab looking at the affects of urbanization and an invasive parasite, Philornis downsi, on Darwin’s finches in the the Galapagos Islands. This was followed by my time as a Gerstner Scholar at the American Museum of Natural History where I continue to be a Research Associate.
 
-I received my Ph.D. at the Texas A&M University working on avian malaria diversification in the lab of Dr. Gary Voelker. This was followed by postdoctoral position in Dr. Sarah Knutie’s lab looking at the affects of urbanization and an invasive parasite, Philornis downsi, on Darwin’s finches in the the Galapagos Islands.
-
-I consider myself fortunate to have found science and research. As a young adult I was provided with opportunities to interact with researchers and mentors that exposed a world and opportunities that I didn’t even know existed when I was growing up. I seek to provide these opportunities and an inclusive environment in order open this world up to others.
+I consider myself fortunate to have found science and research. As a young adult I was provided with opportunities to interact with researchers and mentors that exposed a world and opportunities that I didn’t even know existed when I was growing up. I seek to provide these opportunities and an inclusive environment in order open this world up to others and work towards improving diversity in EEB.
 
 I spend my free time with husband and cats, and enjoy reading fantasy, hiking, gardening, and swimming. 
 
