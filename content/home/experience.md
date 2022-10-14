@@ -50,7 +50,7 @@ experience:
     company_logo: uconn
     location: Connecticut
     date_start: '2018-01-01'
-    date_end: '2019-06-31'
+    date_end: '2019-06-30'
     description: Examined the effects of urbanization and parasitism by an ectoparasite on Darwin’s finches in the Galápagos. 
     
 design:
