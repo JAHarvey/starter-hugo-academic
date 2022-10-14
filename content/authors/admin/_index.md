@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-name: Joint position at the University of Maryland & USGS Eastern Ecological Science Center
+- name: Joint position at the University of Maryland & USGS Eastern Ecological Science Center
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research broadly focuses on the impacts of anthropogenic change, climate change as well and land cover change, on pathogen virulence and avian host immune response. 
