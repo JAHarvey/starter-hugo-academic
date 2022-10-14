@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: Joint position at University of Maryland & the USGS Eastern Ecological Center within the Disease Decision and Analysis Research (DDAR) group
     company_url: ''
-    company_logo: logos-UMD.jpg
+    company_logo: UMD
     location: Maryland
     date_start: '2023-04-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Gerstner Scholar
     company: American Museum of Natural History
     company_url: 'https://www.amnh.org/research/richard-gilder-graduate-school/academics-and-research/fellowship-and-grant-opportunities/gerstner-scholars-program#Johanna%20Harvey'
-    company_logo: amnh.eps
+    company_logo: amnh
     location: New York
     date_start: '2019-09-01'
     date_end: '2022-03-31'
@@ -47,7 +47,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: Univeristy of Connecticut
     company_url: 'https://www.knutielab.com'
-    company_logo: uconn-logo.png
+    company_logo: uconn
     location: Connecticut
     date_start: '2018-01-01'
     date_end: '2019-06-31'
