@@ -1,8 +1,8 @@
 ---
-title: Example Project
+title: Current Research
 summary: My research program uses an integrative framework of disease ecology, transcriptomics, and modeling to examine the response of avian disease to effects of global climate change. My research foci explore three integrative components
 tags:
-- Deep Learning
+- Host-Pathogen dynamics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
