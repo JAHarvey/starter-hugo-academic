@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: My research program uses an integrative framework of disease ecology, transcriptomics, and modeling to examine the response of avian disease to effects of global climate change. My research foci explore three integrative components
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
