@@ -46,4 +46,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-![screen reader text](featured.png "caption")
+![screen reader text](RO.png "caption")
