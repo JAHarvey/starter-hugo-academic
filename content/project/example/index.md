@@ -2,7 +2,7 @@
 title: Current Research
 summary: Highly pathgenic avian influenza H5N1 incursion into North America
 tags:
-- Host-Pathogen dynamics
+- Emerging diseases
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/JohannaHarvey15
 url_code: ""
 url_pdf: ""
 url_slides: ""
