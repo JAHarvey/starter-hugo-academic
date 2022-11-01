@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Research overview
-subtitle: ''
+subtitle: 'My research program uses an integrative framework of disease ecology, host immunology, and predictive modeling to examine the response of avian disease to effects of global climate change. My research foci explore three integrative components:'
 
 content:
   # Page type to display. E.g. project.
@@ -46,3 +46,4 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+My research program uses an integrative framework of disease ecology, host immunology, and predictive modeling to examine the response of avian disease to effects of global climate change. My research foci explore three integrative components:
