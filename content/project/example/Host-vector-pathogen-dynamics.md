@@ -1,6 +1,6 @@
 ---
 title: Host-vector-pathogen dynamics
-summary: My research characterizes the evolutionary host response to malaria parasite infections across a latitudinal gradient in wild birds. Sampling focuses on resident, short, and medium distant migrants in order to capture infections which are a result of climate-change-induced-range shifts of parasites. 
+summary: 
 tags:
 - Emerging diseases
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image: 
-  filename: ResearchTriangle.png
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
@@ -31,4 +30,4 @@ url_video: ""
 #slides: example
 ---
 
-
+My research characterizes the evolutionary host response to malaria parasite infections across a latitudinal gradient in wild birds. Sampling focuses on resident, short, and medium distant migrants in order to capture infections which are a result of climate-change-induced-range shifts of parasites. 
