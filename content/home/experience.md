@@ -47,7 +47,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: Univeristy of Connecticut
     company_url: 'https://www.knutielab.com'
-    company_logo: uconn
+    company_logo: uconn-logo
     location: Connecticut
     date_start: '2018-01-01'
     date_end: '2019-06-30'
