@@ -5,7 +5,7 @@
 
 title: Johanna Harvey, Phd. # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Johanna Harvey' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
