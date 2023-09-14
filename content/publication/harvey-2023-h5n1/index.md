@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Changing Dynamics of Highly Pathogenic Avian Influenza H5N1: Next Steps for Science and Management in North America
+title: The Changing Dynamics of Highly Pathogenic Avian Influenza H5N1/: Next Steps for Science and Management in North America
 subtitle: ''
 summary: ''
 authors:
