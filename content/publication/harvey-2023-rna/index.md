@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Effect of RNA preservation methods on RNA quantity and 
-quality of field collected avian whole blood
+title: Effect of RNA preservation methods on RNA quantity and quality of field collected avian whole blood
 subtitle: ''
 summary: ''
 authors:
