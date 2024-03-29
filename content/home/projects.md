@@ -31,9 +31,7 @@ content:
     tag: Anthropogenic impacts
   - name: Host immune response
     tag: Host immune response
-  - name: Decision science
-    tag: Decision science
-
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
