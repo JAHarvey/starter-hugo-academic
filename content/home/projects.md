@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Research overview
-subtitle: 'My research program uses an integrative framework of disease evolutionary ecology and host immunology to examine the affect of emerging avian pathogens and parasites  on hosts. I use this reseearch to address conservation needs using decision science through collaborative efforts with agency, managers, and stakeholder partners to address drivers of avian decline.' 
+subtitle: 'My research program uses an integrative framework of disease evolutionary ecology and host immunology to examine the affect of emerging avian pathogens and parasites  on hosts. I leverage research to address conservation needs using decision science through collaborative efforts with agency, managers, and stakeholder partners to mitigate drivers of avian decline.' 
 
 content:
   # Page type to display. E.g. project.
