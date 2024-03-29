@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Research overview
-subtitle: 'My research program uses an integrative framework of disease ecology, host immunology, and predictive modeling to examine the response of avian disease to effects of global climate change. My research foci explore three integrative components:'
+subtitle: 'My research program uses an integrative framework of disease evolutionary ecology and host immunology to examine the affect of emerging avian pathogens and parasites  on hosts. I use this reseearch to address conservation needs using decision science through collaborative efforts with agency, managers, and stakeholder partners to address drivers of avian decline. 
 
 content:
   # Page type to display. E.g. project.
@@ -25,12 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Host-pathogen dynamics  
-    tag: Host-pathogen dynamics 
+  - name: Avian disease ecolgy
+    tag: Avian disease ecology 
   - name: Anthropogenic impacts
     tag: Anthropogenic impacts
   - name: Host immune response
     tag: Host immune response
+  - name: Decision science
+    tag: Decision science
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
