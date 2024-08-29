@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Incoming Assistant Professor
+    company: University of Rhode Island
+    company_url: ''
+    #company_logo: URI
+    location: Kingston, RI
+    date_start: '2025-01-01'
+    description: |2-
+        Research focus:
+        
+        * Wildlife Disease Ecology 
+        * Avian influenza research focusing on wild bird populatio impacts and immune adaption across host species
+        
   - title: Postdoctoral Researcher
     company: Joint position at University of Maryland & the USGS Eastern Ecological Center within the Disease Decision and Analysis Research (DDAR) group
     company_url: ''
     #company_logo: UMD
     location: Maryland
-    date_start: '2023-04-01'
-    date_end: ''
+    date_start: '2022-04-01'
+    date_end: '2024-12-31'
     description: |2-
         Research focus:
         
