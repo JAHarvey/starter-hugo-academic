@@ -29,7 +29,7 @@ weight = 15  # Order that this section will appear.
   
   # Background image.
   image = "WebsiteHeader.png"  # Name of image in `static/media/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -48,14 +48,12 @@ weight = 15  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-
-
-
   
-<h3 style="font-size:50px; text-align: center; margin-top:40vw;margin-right:0px;margin-left:0px"><br/>Harvey Lab<br/>Avian Disease Ecology<br/>at the University of Rhode Island</h3>
+<h2 style="font-size:50px; text-align: center; margin-top:10vw;margin-right:0px;margin-left:0px"><br/>Harvey Lab<br/>Avian Disease Ecology</h2>
 
 
 
+<h1 style="font-size:20px; text-align: center; margin-top:35vw;margin-right:0px;margin-left:0px"><br/>We are the avian disease ecology group at the University of Rhode Island.<br/>We work at the intersection of disease ecology and evolution, conservation,<br/> and transcriptomics to understand the impacts of anthropogenic change, conservation of declining birds,<br/> and how species adapt to these stressors.</h1>
 
 
 
