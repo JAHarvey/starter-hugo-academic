@@ -26,7 +26,7 @@ design:
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://wowchemy.com'
-  label: Johanna Harvery, PhD
+  label: Harvey Lab
   icon_pack: fas
   icon: download
 cta_alt:
