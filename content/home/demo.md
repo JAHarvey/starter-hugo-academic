@@ -52,7 +52,7 @@ weight = 15  # Order that this section will appear.
 
 
   
-<h3 style="font-size:50px; text-align: center; margin-top:40vw;margin-right:0px;margin-left:0px"><br/>Harvey Lab<br/>Avian Disease Ecology Lab<br/at the University of Rhode Island</h3>
+<h3 style="font-size:50px; text-align: center; margin-top:40vw;margin-right:0px;margin-left:0px"><br/>Harvey Lab<br/>Avian Disease Ecology Lab<br/>at the University of Rhode Island</h3>
 
 
 
