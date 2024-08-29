@@ -32,7 +32,7 @@ experience:
         Research focus:
         
         * Wildlife Disease Ecology 
-        * Avian influenza research focusing on wild bird populatio impacts and immune adaption across host species
+        * Avian influenza research focusing on wild bird population impacts and immune adaption across host species
         
   - title: Postdoctoral Researcher
     company: Joint position at University of Maryland & the USGS Eastern Ecological Center within the Disease Decision and Analysis Research (DDAR) group
